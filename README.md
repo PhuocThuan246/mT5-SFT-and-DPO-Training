@@ -1,6 +1,4 @@
 # mT5-SFT-and-DPO-Training
-# mT5 Alignment with SFT & DPO
-
 This repository contains two Jupyter notebooks demonstrating how to fine-tune and align the mT5 model using modern LLM training techniques:
 
 - **Supervised Fine-Tuning (SFT)** – trains the model on high-quality instruction–response pairs.
